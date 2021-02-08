@@ -8,6 +8,8 @@ The curently available version may be incomplete or contain bugs.
 3D-Chess is an open source chess clone with 3D graphics written in C++.
 It uses the OpenGL API for hardware-accelerated rendering.
 
+![](demo.gif)
+
 ## Dependencies
 This project depends on static libraries:
   - opengl32.lib
