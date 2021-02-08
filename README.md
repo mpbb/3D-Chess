@@ -10,6 +10,6 @@ It uses the OpenGL API for hardware-accelerated rendering.
 
 ## Dependencies
 This project depends on static libraries:
-  opengl32.lib
-  glew32s.lib   (https://github.com/nigels-com/glew)
-  glfw3.lib     (https://github.com/glfw/glfw)
+  - opengl32.lib
+  - glew32s.lib   (https://github.com/nigels-com/glew)
+  - glfw3.lib     (https://github.com/glfw/glfw)
